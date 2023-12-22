@@ -154,7 +154,7 @@ Publish the website in the given URL.
         <button onclick="calculate(event);">5</button>
         <button onclick="calculate(event);">6</button>
         <button class="bluee"  onclick="calculate(event);">*</button>
-        <button class="bluee"  onclick="calculate(event);">√ </button><br>
+        <button class="bluee"  onclick="calculate(event);">%</button><br>
         <button onclick="calculate(event);">1</button>
         <button onclick="calculate(event);">2</button>
         <button onclick="calculate(event);">3</button>
@@ -172,10 +172,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (15).png>)
-![Alt text](<Screenshot (16).png>)
+![Alt text](<Screenshot (17).png>)
 
-
+![Alt text](<Screenshot (18).png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
